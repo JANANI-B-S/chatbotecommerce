@@ -1,0 +1,3 @@
+[submodule "ecommerce-chatbot-frontend"]
+	path = ecommerce-chatbot-frontend
+	url = https://github.com/JANANI-B-S/chatbotecommerce.git
